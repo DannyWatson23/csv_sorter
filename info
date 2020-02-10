@@ -1,0 +1,3 @@
+Using your prog.c from Chapter 4, see if you can give it a header
+
+Also see if you can split it into a few source files, create object files and then make a small change to one and recompile
